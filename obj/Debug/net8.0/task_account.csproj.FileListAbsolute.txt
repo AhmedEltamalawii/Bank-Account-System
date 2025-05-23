@@ -1,0 +1,14 @@
+C:\Users\Sprint\source\repos\task_account\obj\Debug\net8.0\task_account.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sprint\source\repos\task_account\obj\Debug\net8.0\task_account.AssemblyInfoInputs.cache
+C:\Users\Sprint\source\repos\task_account\obj\Debug\net8.0\task_account.AssemblyInfo.cs
+C:\Users\Sprint\source\repos\task_account\obj\Debug\net8.0\task_account.csproj.CoreCompileInputs.cache
+C:\Users\Sprint\source\repos\task_account\bin\Debug\net8.0\task_account.exe
+C:\Users\Sprint\source\repos\task_account\bin\Debug\net8.0\task_account.deps.json
+C:\Users\Sprint\source\repos\task_account\bin\Debug\net8.0\task_account.runtimeconfig.json
+C:\Users\Sprint\source\repos\task_account\bin\Debug\net8.0\task_account.dll
+C:\Users\Sprint\source\repos\task_account\bin\Debug\net8.0\task_account.pdb
+C:\Users\Sprint\source\repos\task_account\obj\Debug\net8.0\task_account.dll
+C:\Users\Sprint\source\repos\task_account\obj\Debug\net8.0\refint\task_account.dll
+C:\Users\Sprint\source\repos\task_account\obj\Debug\net8.0\task_account.pdb
+C:\Users\Sprint\source\repos\task_account\obj\Debug\net8.0\task_account.genruntimeconfig.cache
+C:\Users\Sprint\source\repos\task_account\obj\Debug\net8.0\ref\task_account.dll
